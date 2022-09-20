@@ -23,3 +23,4 @@ int binary_tree_is_full(const binary_tree_t *tree)
 	if (right == 1 && left == 1)
 		return (1);
 	return (0);
+}
